@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EEDI3", "EEDI3.vcxproj", "{4207A2F6-5332-4B00-A1EC-2F6D51E00259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Debug|x64.ActiveCfg = Debug|x64
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Debug|x64.Build.0 = Debug|x64
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Debug|x86.ActiveCfg = Debug|Win32
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Debug|x86.Build.0 = Debug|Win32
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Release|x64.ActiveCfg = Release|x64
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Release|x64.Build.0 = Release|x64
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Release|x86.ActiveCfg = Release|Win32
+		{4207A2F6-5332-4B00-A1EC-2F6D51E00259}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684FF706-16CA-4324-98D0-9A52BBBE823C}
+	EndGlobalSection
+EndGlobal
